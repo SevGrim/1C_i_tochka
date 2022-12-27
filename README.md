@@ -27,4 +27,4 @@
 
 9. [Кейсы с динамическим списком. Часть 1 (21.12.2022)](https://telegra.ph/About-dynamic-lists-12-17)
 
-10.[Сброс размера форм (28.12.2022)](https://telegra.ph/Reset-size-form-12-17)
+10. [Сброс размера форм (28.12.2022)](https://telegra.ph/Reset-size-form-12-17)
