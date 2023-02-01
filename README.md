@@ -28,3 +28,9 @@
 9. [Кейсы с динамическим списком. Часть 1 (21.12.2022)](https://telegra.ph/About-dynamic-lists-12-17)
 
 10. [Сброс размера форм (28.12.2022)](https://telegra.ph/Reset-size-form-12-17)
+
+11. [Лечение зависания kdiff (09.01.2023)](https://telegra.ph/kdiff-bug-12-27)
+
+12. [Проверяем 1Сные мифы. Часть 1 (18.01.2023)](https://telegra.ph/Myth-busters-Part-1-01-07)
+
+13. [Патчи (01.02.2023)](https://telegra.ph/Patches-02-01)
