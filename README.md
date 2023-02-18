@@ -34,3 +34,5 @@
 12. [Проверяем 1Сные мифы. Часть 1 (18.01.2023)](https://telegra.ph/Myth-busters-Part-1-01-07)
 
 13. [Патчи (01.02.2023)](https://telegra.ph/Patches-02-01)
+
+14. [Практические кейсы работы с иерархическими справочниками (14.02.2023)](https://telegra.ph/Working-with-hierarchy-02-12)
